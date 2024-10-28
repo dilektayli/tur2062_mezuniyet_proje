@@ -1,3 +1,3 @@
 # tur2062_mezuniyet_proje
 ## Projemin fikri: XXXXX
-> aaa
+> ulaşım araçları ve bilgilendirici sayfa
